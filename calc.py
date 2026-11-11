@@ -12,3 +12,5 @@ match op:
 		print(num1 * num2)
 	case "%":
 		print(num1 % num2)
+	case "**":
+		print(num1 ** num2)
